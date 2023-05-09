@@ -1,28 +1,13 @@
-# Projeto DevHeroes
+# Boas práticas com git
 
-●	Título e descrição
-    DevHeroes / Site para o usuário montar sua liga de heróis RPGs
+repositório para praticar e estudar git/github
 
-●	Objetivo do Projeto
-[] Utilizar/Aprender React 
-[] Utilizar uma tag de audio do HTML
-[] Carrossel de imagens dos heróis criados
+Comandos necessários para criar uma repositório e colocá-lo no GitHub:
 
-●   Objetivos secundários
-[] Criar componentes interativos com JavaScript, exemplo o botão do menu do projeto (Code in Rio) 
-[] Layout responsivo
-
-## Execução    
-[] Fazer ele com Git, através do terminal.
-[] Definir desenho do site
-[] Pegar imagens dos personagens
-[] Criar o arquivo React
-[] Estruturar o JSON
-[] Fazer o CSS
-
-## Pós 
-●	O que aprendeu com o projeto - Destacar partes do código para cada aprendizado
-●	Funcionalidades da aplicação desenvolvida
-●	Seção ensinando a replicar o projeto (como rodar o seu código)
-●	Seção do autor com link para o seu LinkedIn
+git init ao iniciar um projeto
+depois de modificar o que for necessário, fazer git add .
+git commit -m "minha mensagem" é o comando para commitar as alterações
+Posso criar o repositório no GitHub neste momento e linkar com o git através do git remote add origin (link)
+git branch -M main para renomear a branch
+git push para fazer a synch dos arquivos locais para o remoto
 
